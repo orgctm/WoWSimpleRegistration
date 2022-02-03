@@ -19,7 +19,7 @@ $language['change_lang_head'] = 'Language Changer';
 $language['change_lang_form_head'] = 'Select Language';
 $language['change_lang_sub'] = 'Change';
 
-$language['welcome_to'] = 'Welcome to';
+$language['welcome_to'] = '';
 $language['welcome_message'] = 'Bienvenido a nuestro servidor privado, unete a nosotros!';
 $language['get_started'] = 'Get Started';
 $language['home'] = 'Inicio';

@@ -21,11 +21,15 @@ use SebastianBergmann\Timer\Timer;
     </div>
     <div class="container footer-bottom clearfix">
         <div class="credits">
-            Developed by <a href="http://masterking32.com">MasterkinG32.CoM</a>
-            - <?php echo "Load " . Timer::resourceUsage(); ?>
+            Este servidor es un proyecto comunitario enfocado en aprender a programar y educaci&oacute;n en general.
             <BR>
-            Tempelate Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> and Modified by <a
-                    href="http://masterking32.com">Amin.MasterkinG</a>
+            Puedes modificar y aportar al c&oacute;digo en <a href="https://github.com/orgctm/">Github</a>
+            <BR>
+            <BR>
+            Web by <a href="https://masterking32.com">MasterkinG32.CoM</a>
+            -
+            Web Design by <a href="http://masterking32.com">Amin.MasterkinG</a>
+            <BR>
         </div>
     </div>
 </footer>
